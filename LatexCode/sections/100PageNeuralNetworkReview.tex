@@ -1,0 +1,31 @@
+\section{Notes of The Hundred Page Machine Learning Book}
+\label{section:100PageNotes}
+
+This book was chosen as it is a very popular read, and is described as a good introduction to machine learning. Its concise nature allows a general understanding, and was selected to be my first read in my deeper endeavour of ML\\
+
+Machine learning algorithms are often described as "supervised", or "unsupervised". There are also "semi-supervised" and "reinforcement" machine learning algorithms.\\
+\newpage
+\begin{itemize}
+	\item \textbf{Supervised Models} uses labeled sets of data to train an algorithm, and by iterating can predict more accurately. They often take feature vectors in, and output information accordingly. It is the most commonly used learning method.  The data is supervised to (input, output). \\
+	\item \textbf{Unsupervised Models} are in charge of identifying patterns of unlabeled data. There is also a feature vector given into this learning alternative. \\
+	\item \textbf{Semi-Supervised Models} is a mix of labelled and unlabelled data. The end goal is to build a strong algorithm. \\
+	\item \textbf{Reinforcement Learning} is interpreted as a state, that can execute actions at every state. Depending on actions, a reward system is engaged accordingly. This helps a computer algorithm decipher policy. This is measured through excepted average reward. \\
+\end{itemize}
+
+Classification and Regression are often mixed terms. In our terms, \textbf{classification} entails automatically assigning labels to unlabeled data, where the then-labeled data can help develop a model. For example spam detection. For \textbf{regression} is the pursuit of predicting a label based off an unlabeled example. For example, judging a house price, based off location, number of bedrooms, area etc. \\
+
+Machine Learning algorithms can be manually developed, however the industry standard is known to leverage libraries to source their work. \\
+
+A \textbf{Neural Network} is a nested function,
+
+\begin{equation}
+    y = f_N_N(x) = f_3(f_2(f_1(x)))
+\end{equation}
+\\
+hence the common statement of "layers" within a neural network. The vector functions follow the form,
+
+\begin{equation}
+    f_l(z)=g_l(W_lz + b_l)
+\end{equation}
+
+where $l$ is the the layer index (spans from 1 to any number of layers), and $g_l$ is the activation function. The parameters $W_l$ is a matrix, $b_l$ is a vector.
