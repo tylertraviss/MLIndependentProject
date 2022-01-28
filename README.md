@@ -9,6 +9,7 @@ In compliance with requirements for the University of New Brunswick's SWE4913 cu
 
 - The 100 Page Machine Learning Book
 - Python 3.7
+- [Predicting House Prices with Machine Learning](https://towardsdatascience.com/predicting-house-prices-with-machine-learning-62d5bcd0d68f)
 
 ***
 
