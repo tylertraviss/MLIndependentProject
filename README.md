@@ -17,19 +17,19 @@ In compliance with requirements for the University of New Brunswick's SWE4913 cu
 
 ***
 
-<p align="center">Author</p>
+<p align="center">Team</p>
 
-**Tyler Travis**
+**Tyler Travis** | Main Author
 - Senior Software Engineering Student UNB
 - [Profile](https://github.com/tylertraviss)
 - [Email](mailto:ttravis@unb.ca?subject=Greetings% "Hello Tyler,")
 
+**Dr. Zhang** | Supervisor
+- PhD, Western University
+- [Background](https://www.cs.unb.ca/people/hzhang)
+
 ***
 
-<p align="center">Assistance</p>
-- [(Supervisor) Dr. Zhang](https://www.cs.unb.ca/people/hzhang)
-
-***
 <p align="center">How To Help</p>
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
