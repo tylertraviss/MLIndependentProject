@@ -27,7 +27,7 @@ In compliance with requirements for the University of New Brunswick's SWE4913 cu
 ***
 
 <p align="center">Assistance</p>
-- (Supervisor) UNB / Dr. Zhang
+- [(Supervisor) Dr. Zhang](https://www.cs.unb.ca/people/hzhang)
 
 ***
 <p align="center">How To Help</p>
