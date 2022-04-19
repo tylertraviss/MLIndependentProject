@@ -1,4 +1,4 @@
-<h1 align="center">Machine Learning Independent Study</h1>
+<h1 align="center">Machine Learning Independent Study <b>(Complete)</b></h1>
 
 <p align="center">Project Description</p>
 In compliance with requirements for the University of New Brunswick's SWE4913 curriculum. The purpose of this independent research project is to build knowledge on basic concepts of machine learning models. 
